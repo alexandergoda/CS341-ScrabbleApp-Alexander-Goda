@@ -1,0 +1,11 @@
+CS341 ScrabbleGenerator Tests
+----------------------------
+PASS: Test 1 - Three letters produce six arrangements
+PASS: Test 2 - Seven letters produce 5040 arrangements
+PASS: Test 3 - Fewer than seven letters are accepted
+PASS: Test 4 - Repeated letters do not duplicate arrangements
+PASS: Test 5 - More than seven letters are rejected
+PASS: Test 6 - Non-letter input is rejected
+PASS: Test 7 - Empty input is rejected
+
+Tests passed: 7 of 7

@@ -1,0 +1,4 @@
+/mnt/data/CS341_ScrabbleApp_Alexander_Goda/src/tester/ScrabbleGeneratorTester.java:14: warning: use of default constructor, which does not provide a comment
+public class ScrabbleGeneratorTester {
+       ^
+1 warning
